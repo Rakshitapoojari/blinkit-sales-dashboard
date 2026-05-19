@@ -103,7 +103,6 @@ Through this project, I improved my skills in:
 
 * Data visualization
 * Business intelligence reporting
-* SQL querying
 * KPI analysis
 * Dashboard storytelling
 * Data-driven decision making
